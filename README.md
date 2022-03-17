@@ -47,7 +47,7 @@ http://10.102.8.79:8081/api/v1/namespaces/kubernetes-dashboard/services/http:kub
 
 скриншота dashboard
 
-![dashboard](https://github.com/olegrovenskiy/HW-CICD-9.3/blob/main/scrinshots/sonar1.png)
+![dashboard](https://github.com/olegrovenskiy/HW-12.1/blob/main/dashboard.png)
 
  ### 2. Deployment
 
